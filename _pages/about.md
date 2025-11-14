@@ -37,7 +37,8 @@ You can view my CV here:
 - 3D Human Modeling  
 - Motion Reconstruction  
 - Vision-Based Tracking  
-- Mixed Reality (AR/VR)  
+- Mixed Reality (AR/VR)
+
 
 ---
 
